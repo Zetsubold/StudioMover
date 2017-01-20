@@ -45,3 +45,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.codelite/.tern-port
+.codelite/compilation.db
+.codelite/StudioMover.session
+.codelite/refactoring.db
+*.d
+*.o
+Makefile
+*.exe
+.codelite/.tern-project
+.codelite/StudioMover.tags
+SteamThing main.cpp
+StudioMover_wsp.mk
+StudioMover.workspace.someloser
+StudioMover.workspace.session
+StudioMover.workspace
+StudioMover.txt
+StudioMover.tags
+StudioMover.project
+StudioMover.mk
+.codelite/subversion.conf
